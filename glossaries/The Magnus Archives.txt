@@ -28,12 +28,16 @@ Mary Keay = 玛丽·凯伊
 Julia Montauk = 朱莉亚·蒙托克
 Trevor Herbert = 崔佛·赫博特
 Barnabas Bennett = 巴纳巴斯·贝内特
+Albrecht von Closen = 阿尔布雷克特·冯·克洛森
 Mordechai Lukas = 莫迪凯·卢卡斯
 Simon Fairchild = 西蒙·费尔切尔德
 Jurgen Leitner = 于尔根·莱特纳
 "Michael "Mike" Crew" = 麦克尔·麦克·克鲁
 Nikola Orsinov = 尼可拉·奥辛诺夫
 Michael：迈克尔
+Adelard Dekker = 艾迪拉德·戴科
+Mikaele Salesa = 米凯尔·萨莱萨
+
 
 //fear power相关
 Buried：埋
@@ -75,10 +79,11 @@ The Extinction：灭绝
 
 //专有名词
 avatar：化身
+patron：庇护主
 institute：档案馆
-leitners：莱特纳魔书
 hilltop road：丘顶路
 the magnus archives：马格努斯档案馆
+Daedalus：狄达罗斯
 
 
 禁翻词条
